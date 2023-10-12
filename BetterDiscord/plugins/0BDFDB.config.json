@@ -1,0 +1,28 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "3.3.6",
+			"BetterNsfwTag": "1.3.2",
+			"FriendNotifications": "1.9.4",
+			"ImageUtilities": "5.2.8",
+			"ReadAllNotificationsButton": "1.7.5",
+			"ShowBadgesInChat": "2.0.1",
+			"SplitLargeMessages": "1.8.1",
+			"SpotifyControls": "1.3.5",
+			"StaffTag": "1.5.9"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "d0aa66b1161fe02ff20a0d0d390ec659ce25a401",
+			"0BDFDB.raw.css": "6b9da96e121eb6dc70477f21e35a467a73e8d250"
+		}
+	}
+}

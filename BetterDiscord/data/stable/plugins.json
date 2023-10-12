@@ -1,0 +1,16 @@
+{
+    "BetterMediaPlayer": true,
+    "BetterNsfwTag": true,
+    "BlurNSFW": true,
+    "FavoriteMedia": true,
+    "FriendNotifications": true,
+    "ImageUtilities": true,
+    "ReadAllNotificationsButton": true,
+    "ShowBadgesInChat": true,
+    "SplitLargeMessages": true,
+    "SpotifyControls": true,
+    "StaffTag": true,
+    "Timezones": true,
+    "ZeresPluginLibrary": true,
+    "BDFDB": true
+}
