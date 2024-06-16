@@ -1,2 +1,3 @@
 # dots
-My dotfiles
+
+My old dotfiles from a Manjaro + AwesomeWM config
